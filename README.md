@@ -21,7 +21,7 @@ The instructions are rather simple. Once you have all the files from the reposit
   
 ## Usage
 
-All that is needed is to run the command “node index.js” and the inquirer prompts will appear.
+All that is needed is to run the command “node index.js” and the inquirer prompts will appear. [Walkthrough Video](https://drive.google.com/file/d/1C0B5KqkLKCUA1IcUjV0NBYwo7tX2bY9a/view?usp=sharing)
   
 ## License
   
